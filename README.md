@@ -1,0 +1,1 @@
+App para tomar Asistencia de empleados desarrollada en React native con Expo
